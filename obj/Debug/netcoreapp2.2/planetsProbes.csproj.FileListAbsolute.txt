@@ -1,0 +1,11 @@
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\bin\Debug\netcoreapp2.2\planetsProbes.deps.json
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\bin\Debug\netcoreapp2.2\planetsProbes.runtimeconfig.json
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\bin\Debug\netcoreapp2.2\planetsProbes.runtimeconfig.dev.json
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\bin\Debug\netcoreapp2.2\planetsProbes.dll
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\bin\Debug\netcoreapp2.2\planetsProbes.pdb
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\obj\Debug\netcoreapp2.2\planetsProbes.csprojAssemblyReference.cache
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\obj\Debug\netcoreapp2.2\planetsProbes.csproj.CoreCompileInputs.cache
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\obj\Debug\netcoreapp2.2\planetsProbes.AssemblyInfoInputs.cache
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\obj\Debug\netcoreapp2.2\planetsProbes.AssemblyInfo.cs
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\obj\Debug\netcoreapp2.2\planetsProbes.dll
+C:\Users\matth\workspace\bookOneBangazon\planetsProbes\obj\Debug\netcoreapp2.2\planetsProbes.pdb
